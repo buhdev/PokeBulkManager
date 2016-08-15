@@ -1,0 +1,3 @@
+# PokeBulkManager
+
+UNDER CONSTRUCTION
